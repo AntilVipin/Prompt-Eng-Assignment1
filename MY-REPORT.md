@@ -2,7 +2,7 @@
 
 # Prompt Engineering Techniques for Requirement Analysis
 
-A short sentence describing the essence of your project.
+This project demonstrates advanced prompt engineering methods to automate software requirement analysis.
 
 * Authors: Vipin Antil 
 * Academic Supervisor: [Dr. Fernando Koch](http://www.fernandokoch.me)
